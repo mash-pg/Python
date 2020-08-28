@@ -1,14 +1,15 @@
-djangoプロジェクト作成
-django-admin startproject [プロジェクト名]
-
-django起動
-python manage.py runserver
-
 pythonの仮想環境起動
 source [仮想環境名]/bin/activate 
 
 pythonの仮想環境作成
 python -m venv [仮想環境名]
+
+
+djangoプロジェクト作成
+django-admin startproject [プロジェクト名]
+
+django起動
+python manage.py runserver
 
 msyql サーバースタート
 mysql.server start
